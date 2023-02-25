@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Parkerjn90=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Parkerjn90/Parkerjn90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
