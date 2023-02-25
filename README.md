@@ -1,3 +1,4 @@
+<h1>Joy Parker</h1>
 ### Hi there 👋
 
 ![Parkerjn90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkerjn90&hide=stars&show_icons=true&theme=synthwave&include_all_commits=true)
