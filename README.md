@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Parkerjn90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkerjn90&hide=stars)]
+![Parkerjn90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkerjn90&hide=stars&show_icons=true)
 
 <!--
 **Parkerjn90/Parkerjn90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
