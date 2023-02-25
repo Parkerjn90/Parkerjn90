@@ -1,5 +1,6 @@
 <h1 style="color: #d23d9b">Joy Parker</h1>
-<h3>Hi there 👋</h3>
+<h3>Hi there 👋 and welcome to my github.</h3>
+<p>After eight years of teaching high school, it was time to push myself through new challenges. I now solve puzzles for a living (you know, a web developer).</p>
 
 ![Parkerjn90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkerjn90&hide=stars&show_icons=true&theme=synthwave&include_all_commits=true)
 
